@@ -19,8 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41e128e7-517e-44eb-a6fe-0ebccb70183b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/coco_resizing.py" afterDir="false" />
+    <list default="true" id="0a4bd21d-b474-4620-9c29-8e2b7c0b8843" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/coco_resize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coco_resizing.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +39,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="26VjejWTIswHExSXjb3cbiWFDg4" />
+  <component name="ProjectId" id="26VqhhQAxP7fLVmPxzMnEdeMHQs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -50,11 +52,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="41e128e7-517e-44eb-a6fe-0ebccb70183b" name="Default Changelist" comment="" />
-      <created>1647515747501</created>
+      <changelist id="0a4bd21d-b474-4620-9c29-8e2b7c0b8843" name="Default Changelist" comment="" />
+      <created>1647519224529</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1647515747501</updated>
+      <updated>1647519224529</updated>
     </task>
     <servers />
   </component>

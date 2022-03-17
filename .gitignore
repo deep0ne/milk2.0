@@ -27,12 +27,12 @@ share/python-wheels/
 MANIFEST
 
 # User-specific stuff
-.idea/
-.idea/**/workspace.xml
-.idea/**/tasks.xml
-.idea/**/usage.statistics.xml
-.idea/**/dictionaries
-.idea/**/shelf
+**/.idea/
+**/.idea/workspace.xml
+**/.idea/tasks.xml
+**/.idea/usage.statistics.xml
+**/.idea/dictionaries
+**/.idea/shelf
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
