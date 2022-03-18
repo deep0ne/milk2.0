@@ -4,8 +4,10 @@ import os
 from PIL import Image
 from collections import OrderedDict
 
+# df_annotations = pd.read_csv('your_file')
 
-def to_coco(toloka_csv, images_dir):
+
+def to_coco(df_annotations, images_dir):
     json_contents = OrderedDict()
     json_contents['images'] = []
     json_contents['categories'] = [{'id': 0, 'name': 'product'}]
@@ -13,8 +15,7 @@ def to_coco(toloka_csv, images_dir):
 
     image_id = 0
     annotation_id = 0
-    df_annotations = pd.read_csv(toloka_csv)
-    
+
     for file_name in df_annotations['file_name'].unique():
         if file_name not in os.listdir(images_dir):
             print(f'{file_name} not FOUND!')
